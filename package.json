@@ -1,0 +1,23 @@
+{
+  "name": "@syed-umair/test-github-packages",
+  "version": "1.0.0",
+  "description": "Trying out github packages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed-Umair/test-github-packages.git"
+  },
+  "author": "Syed Umair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Syed-Umair/test-github-packages/issues"
+  },
+  "homepage": "https://github.com/Syed-Umair/test-github-packages#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
